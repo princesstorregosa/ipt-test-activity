@@ -3,6 +3,6 @@
 int main
 
 {
-	printf("Hello Git!");
+	printf("Hello Princess Mae!");
 	return 0;
 }
