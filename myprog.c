@@ -3,6 +3,7 @@
 int main
 
 {
-	printf("Hello Princess Mae!");
+	printf("Hello Pring!");
+sc        printf("Im Gelie Ann!");
 	return 0;
 }
